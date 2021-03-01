@@ -13,6 +13,5 @@ For calculating position of Sun, I used a proper NASA calculation of the Sun's p
 Great way of testing the expected shadow of the Sundial. That way, I was able to save the cost of a 3D printing of the Sundial. 
 
 Acknowledgments:
-1. The Digital Sundial original CAD STL file is from Mojoptix on Thingiverse. 
-2. For Sun angle calculations, I found a nice library called pysolar. That way, I only had to find my home's local latitude/longitude. 
-3. 
+1. The Digital Sundial original CAD STL file is from Mojoptix on Thingiverse. See https://www.thingiverse.com/thing:1068443
+2. For Sun angle calculations, I found a nice library called pysolar. That way, I only had to find my home's local latitude/longitude. See https://pysolar.readthedocs.io/ 
