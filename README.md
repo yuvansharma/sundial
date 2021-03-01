@@ -1,6 +1,6 @@
 # sundial
 
-20 May 2021
+20 May 2020
 
 Calculations for 3D Printed Sundial
 
